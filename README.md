@@ -22,6 +22,8 @@ How to reach me: babajidemm@gmail.com or info@moibi.de
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![BitBucket](https://img.shields.io/badge/-BitBucket-222222?style=flat&logo=bitbucket&logoColor=1575F9)
+![ReactJS](https://img.shields.io/badge/-ReactJS-222222?style=flat&logo=react&logoColor=1575F9)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
