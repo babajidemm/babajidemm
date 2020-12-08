@@ -3,7 +3,7 @@
 Hi, I am Babajide Mayowa Moibi. A full stack software developer based in Cologne, :de:. I studied Computer Science at the TU Dortmund Univeristy and I have been married to Java since 2013, but lately (since 2019), I have been cheating with Ruby (too) :smiling_imp:. Currently, I work as a full stack developer for Saint-Gobain near Cologne. 
 
 ##### 🔭 
-I’m currently working on a React Native project in my freetime after I had attended a complete React course on Udemy.
+I’m currently working on a Gatsby.js based project in my freetime after I had attended a complete React course on Udemy.
 
 ##### 📫 
 How to reach me: babajidemm@gmail.com or info@moibi.de
